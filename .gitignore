@@ -65,3 +65,6 @@ typings/
 
 #eslintrc
 .eslintrc
+
+#htpasswd
+.htpasswd
